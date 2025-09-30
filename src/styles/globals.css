@@ -1,0 +1,8 @@
+/* Base styles */
+:root { color-scheme: light dark; }
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial, "Apple Color Emoji", "Segoe UI Emoji"; line-height: 1.4; }
+
+/* If you want to use your existing file, you can also import it like below from any component: */
+/* import '../../comp/styles/globals.css' */
